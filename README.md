@@ -103,7 +103,7 @@
 
 ▶️**Цель тестирования:** провести комплексное тестирование YouGile (API + UI) и подготовить отчётность о качестве приложения.
 
-[_**Ссылка на проект**_]([https://github.com/skripnikovaleksej44-ui/Testing_Tor_Store](https://github.com/AlexejRaf/YouGile_Automation))
+[_**Ссылка на проект**_]([https://github.com/skripnikovaleksej44-ui/Testing_Tor_Store](https://github.com/AlexejRaf/YouGile_Automation)
 
 ▶️**Выполенные задачи:** 
 *   Изучить функциональность и документацию YouGile
